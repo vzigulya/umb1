@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'ngx-gmaps',
   styles: [`
     agm-map {
-      height: 500px;
+      height: 550px;
     }
   `],
   template: `
